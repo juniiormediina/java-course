@@ -1,0 +1,25 @@
+docker run --name MySQL-8-1 -e MYSQL_ROOT_PASSWORD=qwerty -p 3307:3306/tcp -d mysql:8.1
+
+
+docker run --name postgres -e POSTGRES_PASSWORD=qwerty -p 5432:5432 -d postgres
+
+
+
+JpaRepository
+https://flywaydb.org/
+
+https://www.youtube.com/watch?v=4Dko5W96WHg&t=2s
+
+https://www.youtube.com/watch?v=OEvHEeDpg_o
+
+
+https://docs.spring.io/spring-data/jpa/docs/1.6.0.RELEASE/reference/html/jpa.repositories.html
+
+https://github.com/dyflopez/JAVA_PROGRAMER_2_2024
+
+http://localhost:8080/swagger-ui/index.html#/Product/create
+
+
+https://start.spring.io/
+
+https://spring.io/quickstart/
